@@ -26,23 +26,37 @@ This workshop uses a top-down methodology to design an RF receiver for a 2.4GHz 
 - **Noise Figure (NF):** 10.7dB
 - **Gain (G):** 51.5dB
 
-## Workshop Exercises
+## 📂 Workshop Exercises
 
-### Exercise 1:
-- **Objective:** Starting from the receiver Gain and Noise Figure, design and analyze a cascade of RF components and integrate them into the system-level model.
-- **Task:** Measure the corresponding Chip Error Rate (ChER) in the presence of an out-of-band interfering signal.
+### Exercise 1: Analyze the RF Receiver
+- **Objective:** Starting from the receiver Gain and Noise Figure, design and analyze a cascade of RF components.  
+- **Task:** Analyze the chain using Friis and Harmonic Balance methods.  
 
-### Exercise 2:
-- **Objective:** Integrate a simple dipole antenna into the system-level model of the RF receiver.
-- **Task:** Understand the impact of polarization mismatch.
+---
 
-### Exercise 3:
-- **Objective:** Design a dual-polarized antenna, analyze its performance using EM analysis, and integrate it into the system-level model of the RF receiver.
-- **Task:** Design a Wilkinson combiner and integrate it together with the dual-polarized antenna into the system-level model.
+### Exercise 2: Simulate the RF Receiver
+- **Objective:** Integrate the automatically generated RF model of the receiver into the system-level testbench.  
+- **Task:** Measure the corresponding Chip Error Rate (ChER) in the presence of an out-of-band interfering signal.  
 
-### Exercise 4:
-- **Objective:** Design a 90-degree phase shifter and implement it on a PCB with the Wilkinson combiner.
-- **Task:** Analyze the PCB structure using electromagnetic analysis.
+---
+
+### Exercise 3: Integrate a Dipole Antenna
+- **Objective:** Integrate a simple dipole antenna into the system-level model of the RF receiver.  
+- **Task:** Understand the impact of polarization mismatch.  
+
+---
+
+### Exercise 4: Integrate a Dual-Polarized Antenna and Wilkinson Combiner
+- **Objective:** Design a dual-polarized antenna, analyze its performance using EM analysis, and integrate it into the system-level model of the RF receiver.  
+- **Task:** Design a Wilkinson combiner and integrate it together with the dual-polarized antenna into the system-level model.  
+
+---
+
+### Exercise 5: Design and Implement a 90-Degree Phase Shifter
+- **Objective:** Design a 90-degree phase shifter and implement it on a PCB with the Wilkinson combiner.  
+- **Task:** Analyze the PCB structure using electromagnetic analysis.  
+
+---
 
 ## Conclusion
 
