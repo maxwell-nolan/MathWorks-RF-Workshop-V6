@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=SekharRajendran/MathWorks-RF-Workshop-V6)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=maxwell-nolan/MathWorks-RF-Workshop-V6)
 
 # MathWorks RF Workshop V6
  Introduction to RF using MathWorks Tools
@@ -66,4 +66,4 @@ This workshop provides a comprehensive RF receiver and antenna design approach, 
 
 ⚠️ Click below to open
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=SekharRajendran/MathWorks-RF-Workshop-V6)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=maxwell-nolan/MathWorks-RF-Workshop-V6)
